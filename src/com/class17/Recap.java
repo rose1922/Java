@@ -6,29 +6,23 @@ public class Recap {
 		
 		String str=new String("Hello");
 		str.length();
-		
+		str.toUpperCase();
+		System.out.println(str.toUpperCase());
+		System.out.println(str.length());
 		Computer comp=new Computer();
-		comp.javaCoding();
 		comp.name="Lenovo";
+		comp.javaCoding();
 		
 	//	 TASK 1
 		
 		//Create a Class “Phone”. Create 3 Objects of it:
 		//	iPhone, Android, Nokia with specific  attributes and behaviours.
-		String brand,name;
 		
 		
-		
-		
-		
-		
-		
-		
-		
-     //    TASK 2
+		 //    TASK 2
          
-        //Create a Dog Class and create 3 different objects of it:
-		//Husky, Bulldog, Labrador  with specific attributes and behaviours.
+            //Create a Dog Class and create 3 different objects of it:
+		//Husky, Bulldog, Labrador  with specific attributes and behaviours.       
 
 		
 		

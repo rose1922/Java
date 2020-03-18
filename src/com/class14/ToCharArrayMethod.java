@@ -4,19 +4,23 @@ public class ToCharArrayMethod {
 
 	public static void main(String[] args) {
 		
-		String str="Syntax";// String den char a cevirdi
+		/*.toCharArray
+		 * This method converts this string to a new character array.
+		 */
 		
-		str.toCharArray();
-		System.out.println(str.toCharArray());
+		 String str="Syntax Technologies";// Stringden Char a cevirdi
+	
+		 char[] array = str.toCharArray();
 		
-		char[] array=str.toCharArray();
+		 for(char i:array) {
+			 System.out.println(i);
+		 }
 		
-		for(char i:array) {
-			System.out.println(i);
-		}
+	
 		
-		
-
 	}
 
 }
+	
+		
+		

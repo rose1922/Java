@@ -19,8 +19,8 @@ public class ornekler {
             }
             System.out.println();
 	}
-}
-}
+
+
 
 
              // 55555

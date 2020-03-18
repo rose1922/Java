@@ -1,4 +1,4 @@
-package com.class10;
+ package com.class10;
 
 public class Tesk2 {
 	public static void main(String [] args) {

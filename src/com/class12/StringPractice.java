@@ -1,4 +1,4 @@
-package com.class12;
+ package com.class12;
 
 public class StringPractice {
 
